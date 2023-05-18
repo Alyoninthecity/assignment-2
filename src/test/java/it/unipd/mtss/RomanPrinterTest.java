@@ -13,7 +13,7 @@ public class RomanPrinterTest {
 
     @Test
     public void printI() {
-        // Arrange
+        // Arrange  
         StringBuilder[] expected = new StringBuilder[6];
         RomanPrinter.initS(expected);
         expected[0].append("  _____ ");
