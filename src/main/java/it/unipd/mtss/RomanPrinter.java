@@ -39,7 +39,7 @@ public class RomanPrinter {
         }
     }
     
-    /**
+    /** 
      * Inserisce la @lettera corretta all'interno di un array StringBuilder
      */
     public static void checkLetter(char lettera, StringBuilder[] risultato) {
